@@ -3,9 +3,9 @@ Intro
 1 Dynamic pages
 2 CFC
 3 Database / ORM
-4 Working with other Data (xml, json, web services, pdf, excel, word ect)
-5 CF AJAX tags
-6 MVC Patterns
+4 Working with other Data (xml, json, web services, ect)
+5 Presenting Data (reports, charts, pdf, excel, word)
+6 CF AJAX tags
 7 CF Web Application Frameworks (so many choices)
 8 CFWheels
 9 ColdBox
@@ -15,7 +15,7 @@ Intro
 
 i Top Ten Topics (We Didn't Cover)
 	open source choices
-	web servers
+	web servers / os
 	RIAForge
 	Conferences/Training
 	Java
