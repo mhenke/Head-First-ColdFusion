@@ -9,10 +9,16 @@ Intro
 7 CF Web Application Frameworks
 8 CFWheels
 9 ColdBox
-10 MachII
-12 Model Glue
-12 ColdFusion as a Service
+10 Model Glue
+11 Mach II
+12 Unit/Acceptance Testing (MXUnit/Selenium
+13 ColdFusion as a Service
 
 i Top Ten Topics (We Didn't Cover)
 ii Setting Up Development Enviroment
-iii Get Even More:
+	Source Control (Git/SVN)
+	Editor
+iii Get Even More
+
+create each chapter as a folder / markdown
+http://github.com/progit/progit
