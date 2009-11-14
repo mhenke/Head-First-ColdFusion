@@ -6,7 +6,8 @@ Intro
 4 Working with other Data (xml, json, web services, ect)
 5 Presenting Data (reports, charts, pdf, excel, word)
 6 CF AJAX tags
-7 CF Web Application Frameworks (so many choices)
+?? Design Patterns
+7 CF Web Application Frameworks (so many choices / history)
 8 CFWheels
 9 ColdBox
 10 Model Glue or Mach II
@@ -28,8 +29,10 @@ i Top Ten Topics (We Didn't Cover)
 ii Setting Up Development Enviroment
 	Source Control (Git/SVN)
 	Editor
+	Ticket System
 
 iii Get Even More
 
-create each chapter as a folder / markdown
+create each chapter as a folder with a page using markdown
+Head-First-ColdFusion / en / 01-Dynamic-Pages/ 01-chapter1.markdown         
 http://github.com/progit/progit
