@@ -8,7 +8,7 @@ enjoy it, I hope it helps you learn ColdFusion, please spread the word.
 Errata
 =====================
 If you see anything that is technically wrong or otherwise in need of correction,
-please email me at schacon at gmail dot com to inform me.
+please email me at henke dot mike at gmail dot com to inform me.
  
  
 Help
