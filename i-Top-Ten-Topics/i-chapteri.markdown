@@ -1,7 +1,7 @@
 # open source choices #
 # web servers / os #
 # RIAForge #
-# Conferences/Training #
+# Content Management Systems #
 # Java #
 # Image Manipulation #
 # ColdFusion as a Service #
