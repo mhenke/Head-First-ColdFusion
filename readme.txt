@@ -1,38 +1,16 @@
-Table of Contents
-0 Intro
-1 Dynamic pages
-2 ColdFusion Components
-3 Database / ORM
-4 Working with other Data (xml, json, web services, ect)
-5 Presenting Data (reports, charts, pdf, excel, word)
-6 CF AJAX tags
-?? Design Patterns
-7 CF Web Application Frameworks (so many choices / history)
-8 CFWheels
-9 ColdBox
-10 Model Glue or Mach II
-11 Debugging (Abort/FusionDebug/CF Debug)
-12 Unit/Acceptance Testing (MXUnit/Selenium)
-
-i Top Ten Topics (We Didn't Cover)
-	open source choices
-	web servers / os
-	RIAForge
-	Conferences/Training
-	Java
-	Image manipulation
-	ColdFusion as a Service
-	Deployment process
-	Microsoft Office SharePoint integration
-	.NET integration
-
-ii Setting Up Development Enviroment
-	Source Control (Git/SVN)
-	Editor
-	Ticket System
-
-iii Get Even More
-
-create each chapter as a folder with a page using markdown
-Head-First-ColdFusion / 01-Dynamic-Pages / 01-chapter1.markdown         
-http://github.com/progit/progit
+Head First ColdFusion Contents
+=====================
+ 
+This is the source code for the Head First ColdFusion book contents. It is licensed under the
+Creative Commons Attribution-Non Commercial-Share Alike 3.0 license. I hope you
+enjoy it, I hope it helps you learn ColdFusion, please spread the word.
+ 
+Errata
+=====================
+If you see anything that is technically wrong or otherwise in need of correction,
+please email me at schacon at gmail dot com to inform me.
+ 
+ 
+Help
+=====================
+If you wish to help write the book, please fork the repos, then send me (mhenke) any pull request.
